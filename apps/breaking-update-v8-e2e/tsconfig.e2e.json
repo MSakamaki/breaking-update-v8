@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "sourceMap": false,
+    "outDir": "../../dist/out-tsc/apps/breaking-update-v8-e2e/src"
+  },
+  "include": ["src/**/*.ts"]
+}

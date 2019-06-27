@@ -1,0 +1,12 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "breaking-update-v8",
+      "camelCase"
+    ],
+    "component-selector": [true, "element", "breaking-update-v8", "kebab-case"]
+  }
+}

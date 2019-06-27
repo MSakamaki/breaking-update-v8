@@ -1,6 +1,5 @@
 # BreakingUpdateV8
 
-
 ```sh
 KPC-0033:sakamaki m.sakamaki$ npx create-nx-workspace@7.7.0 breaking-update-v8
 Creating a sandbox with Nx...
@@ -10,7 +9,7 @@ ng new "breaking-update-v8" --collection=@nrwl/schematics
 ? What to create in the new workspace (You can create other applications and libraries at any point using 'ng g') angular
 
 
-
+ npx ng generate lib theme
 
 
 ```

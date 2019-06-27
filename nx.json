@@ -13,6 +13,9 @@
     },
     "breaking-update-v8-e2e": {
       "tags": []
+    },
+    "theme": {
+      "tags": []
     }
   }
 }
